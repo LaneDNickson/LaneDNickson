@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lane Nickson</h1>
+<h1 align="center">Hi 👋, I'm Lane</h1>
 <h3 align="center">A student studying computer science at North Carolina State University</h3>
 
 - 🔭 I’m currently working on **univeristy projects**
