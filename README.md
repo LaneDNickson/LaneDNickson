@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 📝 I write stuff on [lanenickson.us](lanenickson.us)
+- 📝 I write stuff on [lanenickson.us](http://www.lanenickson.us)
 
 - 💬 Ask me about **TI-84 Plus CE Programming**
 
