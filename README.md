@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lane</h1>
 <h3 align="center">A student studying computer science at North Carolina State University</h3>
 
-- 🔭 I’m currently working on **univeristy projects**
+- 🔭 I’m currently working on **university projects**
 
 - 🌱 I’m currently learning **frontend development**
 
