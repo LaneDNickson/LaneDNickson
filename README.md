@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lane</h1>
 <h3 align="center">A student studying computer science at North Carolina State University</h3>
 
-- 🔭 I’m currently working on **internship projects**
+- 🔭 I’m currently working on **university projects**
 
 - 📝 I write stuff on [lanenickson.us](http://www.lanenickson.us)
 
@@ -17,7 +17,6 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lanednickson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanednickson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lanednickson&icon=0&color=0)](https://visitcount.itsvg.in)
