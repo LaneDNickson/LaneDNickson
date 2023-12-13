@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lane</h1>
 <h3 align="center">A student studying computer science at North Carolina State University</h3>
+<h4 align="center">Featured Articles: <a href="https://www.digitaltrends.com/gaming/games-on-ti-84-graphing-calculator/">DigitalTrends</a> | <a href="https://tiplanet.org/forum/viewtopic.php?t=20275">TI-Planet</a></h4>
 
 - 🔭 I’m currently working on **university projects**
 
