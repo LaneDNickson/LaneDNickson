@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer, B.S. Computer Science</h3>
 <h4 align="center">Featured Articles: <a href="https://www.digitaltrends.com/gaming/games-on-ti-84-graphing-calculator/">DigitalTrends</a> | <a href="https://tiplanet.org/forum/viewtopic.php?t=20275">TI-Planet</a></h4>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **IBM z/OS Tools**
 
 - 📝 I write stuff on [lanenickson.us](http://www.lanenickson.us)
 
